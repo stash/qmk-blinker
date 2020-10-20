@@ -1,0 +1,16 @@
+{
+  "name": "qmk-blinker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "set-leds.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-hid": "^1.3.1"
+  }
+}
